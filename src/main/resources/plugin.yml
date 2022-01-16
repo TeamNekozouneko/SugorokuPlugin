@@ -1,0 +1,5 @@
+name: SugorokuPlugin
+description: 'すごろくプラグインです。入るたびにサイコロがゲットできます。'
+version: '${project.version}'
+main: ga.nekozouneko.sugoroku.sugoroku.Sugoroku
+api-version: 1.18
